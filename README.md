@@ -14,4 +14,24 @@ This project was hosted over AWS using its service AWS Elastic Beanstalk. Link -
 
 Project Images :-
 
-![]
+![](images%20ipl%20project/1.jpeg)
+
+![](images%20ipl%20project/2.jpeg)
+
+![](images%20ipl%20project/3.jpeg)
+
+![](images%20ipl%20project/4.jpeg)
+
+![](images%20ipl%20project/5.jpeg)
+
+![](images%20ipl%20project/6.jpeg)
+
+![](images%20ipl%20project/7.jpeg)
+
+![](images%20ipl%20project/8.jpeg)
+
+![](images%20ipl%20project/9.jpeg)
+
+![](images%20ipl%20project/10.jpeg)
+
+![](images%20ipl%20project/11.jpeg)
