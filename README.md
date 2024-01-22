@@ -32,6 +32,4 @@ Project Images :-
 
 ![](images%20ipl%20project/9.jpeg)
 
-![](images%20ipl%20project/10.jpeg)
-
 ![](images%20ipl%20project/11.jpeg)
